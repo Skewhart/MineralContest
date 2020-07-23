@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f575dc8-7883-45a5-994f-e8e510338010" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MineralContest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MineralContest.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MineralContest.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fr/skewhartt/mineralcontest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f5e1sTNw3UeBHL9XPf5sIUTYmX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f575dc8-7883-45a5-994f-e8e510338010" name="Default Changelist" comment="" />
+      <created>1595512168213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595512168213</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="898" y="169" key="#Project_Structure" timestamp="1595512209388">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="898" y="169" key="#Project_Structure/0.23.2048.1129@0.23.2048.1129" timestamp="1595512209388" />
+    <state x="1223" y="301" key="#com.intellij.ide.util.MemberChooser" timestamp="1595512879290">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="1223" y="301" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1129@0.23.2048.1129" timestamp="1595512879290" />
+    <state x="898" y="169" key="SettingsEditor" timestamp="1595512329977">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="898" y="169" key="SettingsEditor/0.23.2048.1129@0.23.2048.1129" timestamp="1595512329977" />
+  </component>
+</project>
