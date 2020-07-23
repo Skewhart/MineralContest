@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MineralContest:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9f575dc8-7883-45a5-994f-e8e510338010" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MineralContest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MineralContest.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MineralContest.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fr/skewhartt/mineralcontest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MineralContest/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MineralContest/fr/skewhartt/mineralcontest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MineralContest/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineralContest.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MineralContest.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MineralContest.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MineralContest.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/skewhartt/mineralcontest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/skewhartt/mineralcontest/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Skewhartt" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1f5e1sTNw3UeBHL9XPf5sIUTYmX" />
@@ -33,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -50,6 +59,12 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="MineralContest" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../../spigot-1.8.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
@@ -72,20 +87,56 @@
       <option name="presentableId" value="Default" />
       <updated>1595512168213</updated>
     </task>
+    <task id="LOCAL-00001" summary="Création des base du plugin">
+      <created>1595513092852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595513092852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Création des base du plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Création des base du plugin" />
   </component>
   <component name="WindowStateProjectService">
     <state x="898" y="169" key="#Project_Structure" timestamp="1595512209388">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="898" y="169" key="#Project_Structure/0.23.2048.1129@0.23.2048.1129" timestamp="1595512209388" />
-    <state x="1223" y="301" key="#com.intellij.ide.util.MemberChooser" timestamp="1595512879290">
+    <state x="875" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595513313610">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state x="1223" y="301" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1129@0.23.2048.1129" timestamp="1595512879290" />
-    <state x="898" y="169" key="SettingsEditor" timestamp="1595512329977">
+    <state x="875" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1595513313610" />
+    <state x="1223" y="301" key="#com.intellij.ide.util.MemberChooser" timestamp="1595513130012">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state x="898" y="169" key="SettingsEditor/0.23.2048.1129@0.23.2048.1129" timestamp="1595512329977" />
+    <state x="1223" y="301" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1129@0.23.2048.1129" timestamp="1595513130012" />
+    <state x="974" y="172" key="CommitChangelistDialog2" timestamp="1595513092441">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="974" y="172" key="CommitChangelistDialog2/0.23.2048.1129@0.23.2048.1129" timestamp="1595513092441" />
+    <state width="1157" height="314" key="GridCell.Tab.0.bottom" timestamp="1595513443829">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1157" height="314" key="GridCell.Tab.0.bottom/0.23.2048.1129@0.23.2048.1129" timestamp="1595513443829" />
+    <state width="1157" height="314" key="GridCell.Tab.0.center" timestamp="1595513443829">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1157" height="314" key="GridCell.Tab.0.center/0.23.2048.1129@0.23.2048.1129" timestamp="1595513443829" />
+    <state width="1157" height="314" key="GridCell.Tab.0.left" timestamp="1595513443828">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1157" height="314" key="GridCell.Tab.0.left/0.23.2048.1129@0.23.2048.1129" timestamp="1595513443828" />
+    <state width="1157" height="314" key="GridCell.Tab.0.right" timestamp="1595513443829">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="1157" height="314" key="GridCell.Tab.0.right/0.23.2048.1129@0.23.2048.1129" timestamp="1595513443829" />
+    <state x="898" y="169" key="SettingsEditor" timestamp="1595513363587">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="898" y="169" key="SettingsEditor/0.23.2048.1129@0.23.2048.1129" timestamp="1595513363587" />
   </component>
 </project>

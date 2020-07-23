@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactManager">
     <artifact name="MineralContest:jar">
-      <output-path>$PROJECT_DIR$/out/artifacts/MineralContest_jar</output-path>
+      <output-path>$PROJECT_DIR$/..</output-path>
       <root id="root">
         <element id="archive" name="MineralContest.jar">
           <element id="module-output" name="MineralContest" />

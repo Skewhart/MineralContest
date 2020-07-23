@@ -6,6 +6,10 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
 
+    public Main(){
+
+    }
+
     @Override
     public void onEnable() {
         ConsoleCommandSender console = Bukkit.getConsoleSender();

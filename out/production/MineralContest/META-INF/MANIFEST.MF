@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: fr.skewhartt.mineralcontest.Main
+Class-Path: spigot-1.8.jar
+
