@@ -6,14 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f575dc8-7883-45a5-994f-e8e510338010" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MineralContest/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MineralContest/fr/skewhartt/mineralcontest/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MineralContest/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineralContest.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/MineralContest.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MineralContest.iws" beforeDir="false" afterPath="$PROJECT_DIR$/MineralContest.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/skewhartt/mineralcontest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/skewhartt/mineralcontest/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f575dc8-7883-45a5-994f-e8e510338010" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595513092852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Création des base du plugin">
+      <created>1595515468253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595515468253</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,6 +102,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Création des base du plugin" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1331" y="457" width="642" height="440" key="#Notifications" timestamp="1595515522568">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="1331" y="457" width="642" height="440" key="#Notifications/0.23.2048.1129@0.23.2048.1129" timestamp="1595515522568" />
     <state x="898" y="169" key="#Project_Structure" timestamp="1595512209388">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
@@ -114,10 +118,10 @@
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="1223" y="301" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1129@0.23.2048.1129" timestamp="1595513130012" />
-    <state x="974" y="172" key="CommitChangelistDialog2" timestamp="1595513092441">
+    <state x="974" y="172" key="CommitChangelistDialog2" timestamp="1595515467989">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
-    <state x="974" y="172" key="CommitChangelistDialog2/0.23.2048.1129@0.23.2048.1129" timestamp="1595513092441" />
+    <state x="974" y="172" key="CommitChangelistDialog2/0.23.2048.1129@0.23.2048.1129" timestamp="1595515467989" />
     <state width="1157" height="314" key="GridCell.Tab.0.bottom" timestamp="1595513443829">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
@@ -138,5 +142,13 @@
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="898" y="169" key="SettingsEditor/0.23.2048.1129@0.23.2048.1129" timestamp="1595513363587" />
+    <state x="1048" y="327" key="Vcs.Push.Dialog.v2" timestamp="1595515478202">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="1048" y="327" key="Vcs.Push.Dialog.v2/0.23.2048.1129@0.23.2048.1129" timestamp="1595515478202" />
+    <state x="892" y="98" width="999" height="929" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1595515523292">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="892" y="98" width="999" height="929" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.2048.1129@0.23.2048.1129" timestamp="1595515523292" />
   </component>
 </project>
